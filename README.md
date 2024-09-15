@@ -1,5 +1,5 @@
 # Computrace-Workaround
-This code is meant to be executed when your device power up using task scheduler (requires admin). When the computer power off it should run a script to disable wlan interface as well.
+This code is meant to be executed when your device power up using task scheduler. When the computer power off it should run a script to disable wlan interface as well.
 
 ## How to use this
 - Create a new task, add events trigger for start/stop session/computer
