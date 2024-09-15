@@ -6,3 +6,5 @@ This code is meant to be executed when your device power up using task scheduler
 - Add both scripts (the batch & the exe file)
 - Make sure the "run with admin privileges" is ticked, otherwise it won't work
 - Keep in mind this doesn't fix the problem, to fix it you need to contact the company who disabled your computer.
+
+### some code may or may not come from stack overflow ⚠️
